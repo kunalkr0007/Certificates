@@ -8,6 +8,3 @@ https://github.com/kunalkr0007/Certificates/blob/27d766cca22b80cfa2b8c1c72c24937
 https://github.com/kunalkr0007/Certificates/blob/27d766cca22b80cfa2b8c1c72c24937f49763f4c/1-7d6c2192-8112-4bdd-a775-400a191dd15b.pdf
 
 
-<p align="center">
-  <img src="Java Programming Fundamentals.jpg" alt="GitHub Fork Workflow" />
-</p>
